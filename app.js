@@ -15,10 +15,10 @@ function showMessage() {
         document.body.style.backgroundColor = "black"
     } else if (current > 12 && current <= 16) {
         boxmsg = "Good Afternoon"
-        document.body.backgroundColor = "powderblue"
+        document.body.style.backgroundColor = "powderblue"
     } else if (current > 0 && current <= 11) {
         boxmsg = "Good Morning"
-        document.body.baackgroundColor = "yellow"
+        document.body.style.backgroundColor = "yellow"
     } else {
         boxmsg = "Something is not working correctly"
     }
