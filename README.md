@@ -1,1 +1,1 @@
-First Commit
+This is small JS project that can be used as part of larger projects. The aim of this project is when the uiser clicks on the button a greeting message will get displayed on the screen. A different message with different styles will get displayed depending on what time of the day it is. 
